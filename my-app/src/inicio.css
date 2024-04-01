@@ -1,0 +1,52 @@
+
+h1{
+
+  background-color: #613860;
+  color: white;
+  padding: 1px;
+  margin: 90px;
+  font-family:monospace;
+  font-size: 20px;
+  display: flex;
+  justify-content: center;
+}
+p{
+
+  padding: 10px;
+  margin: 0px;
+  font-family:monospace;
+}
+
+.Bloque1{
+
+font-size: 20px;
+  display: flex;
+  margin: 40px;
+  color:white;
+  background-color: #62a07b;
+  padding: 20px;
+  border-radius: 20px;
+}
+.fotoinicio{
+  border-radius: 10px;
+  margin:30px;
+  transition: all 500ms ease-out;
+}
+.fotoinicio:hover{
+  transform: scale(1.05);
+  box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+}
+.Bloque2
+{
+font-size: 20px;
+  margin: 40px;
+  color:white;
+  background-color: #62a07b;
+  padding: 20px;
+  border-radius: 20px;
+}
+.preguntas:hover{
+  transform: scale(1.025);
+  box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.25);
+
+}

@@ -1,0 +1,40 @@
+.service{
+  margin:40px;
+}
+.serviceimg{
+  margin:40px;
+  display: flex;
+  font-size: 20px;
+}
+h2{
+  display: flex;
+  justify-content: center;
+}
+.posserv{
+  margin:40px;
+  color:white;
+  background-color: #62a07b;
+  padding: 20px;
+  border-radius: 20px;
+
+}
+.servicetxt{
+  font-size: 20px;
+  color:white;
+  background-color: #62a07b;
+  padding: 20px;
+  border-radius: 20px;
+}
+
+.lista{
+  margin:25px;
+}
+.foto:hover{
+  transform: scale(1.05);
+  box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+}
+.puntos:hover{
+  transform: scale(1.025);
+  box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.25);
+
+}
